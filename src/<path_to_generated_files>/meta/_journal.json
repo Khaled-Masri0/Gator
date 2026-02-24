@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1771707423830,
+      "tag": "0000_uneven_thunderbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1771796426154,
+      "tag": "0001_spotty_joystick",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1771968084863,
+      "tag": "0002_wooden_otto_octavius",
+      "breakpoints": true
+    }
+  ]
+}
